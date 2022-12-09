@@ -19,7 +19,15 @@ public class GameController : MonoBehaviour
         {
             if (bottomBar.IsCompleted())
             {
-                bottomBar.PlayNextSentence();
+                if (bottomBar.IsLastSentence())
+                {
+                    currentScene = currentScene.nextScene;
+                    bottomBar.PlayScene(currentScene);
+                }
+                else
+                {
+                    bottomBar.PlayNextSentence();
+                }
             }
         }
     }
