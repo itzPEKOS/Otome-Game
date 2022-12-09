@@ -9,19 +9,31 @@ public class BottomBarController : MonoBehaviour
     public TextMeshProUGUI personNameText;
 
     private int sentenceIndex = -1;
-    public StoryScene currentScene;
+    private StoryScene currentScene;
     private State state = State.COMPLETED;
 
     private enum State
     {
         PLAYING, COMPLETED
     }
-    // Start is called before the first frame update
-    void Start()
+    
+    public void PlayScene(StoryScene scene)
+    {
+        currentScene = scene;
+        sentenceIndex = -1;
+        PlayNextSentence();
+    }
+
+    public void PlayNextSentence()
     {
         StartCoroutine(TypeText(currentScene.sentences[++sentenceIndex].text));
         personNameText.text = currentScene.sentences[sentenceIndex].speaker.speakerName;
         personNameText.color = currentScene.sentences[sentenceIndex].speaker.textColor;
+    }
+
+    public bool IsCompleted()
+    {
+        return state == State.COMPLETED;
     }
 
     private IEnumerator TypeText(string text)
