@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 1
   m_EditorClassIdentifier: 
   sentences:
-  - text: Deep Very Dark Fantasy
+  - text: "\u0E40\u0E17\u0E2A\u0E20\u0E32\u0E29\u0E32\u0E44\u0E17\u0E22"
     speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
   - text: Not Deep dark Fantasy
     speaker: {fileID: 11400000, guid: 53123620ed631764c87cf445ad63b4f6, type: 2}

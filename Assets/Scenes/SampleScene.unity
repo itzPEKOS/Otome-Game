@@ -367,6 +367,7 @@ GameObject:
   - component: {fileID: 287710010}
   - component: {fileID: 287710009}
   - component: {fileID: 287710011}
+  - component: {fileID: 287710012}
   m_Layer: 5
   m_Name: BottomBar
   m_TagString: Untagged
@@ -448,6 +449,26 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   barText: {fileID: 893355085}
   personNameText: {fileID: 248253648}
+--- !u!95 &287710012
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 287710007}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: a60cd6c5d3cebe14e9f6df17eadcb8b9, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -881,6 +902,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentScene: {fileID: 11400000, guid: 0d57af0cc876c1b48a2805c7942a46ee, type: 2}
   bottomBar: {fileID: 287710011}
+  backgroundController: {fileID: 983970831}
 --- !u!1 &983970828
 GameObject:
   m_ObjectHideFlags: 0
@@ -891,6 +913,7 @@ GameObject:
   m_Component:
   - component: {fileID: 983970829}
   - component: {fileID: 983970830}
+  - component: {fileID: 983970831}
   m_Layer: 5
   m_Name: Background
   m_TagString: Untagged
@@ -930,7 +953,7 @@ Animator:
   m_GameObject: {fileID: 983970828}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 814b4cbec691b48439e52a00cbe2a518, type: 2}
+  m_Controller: {fileID: 9100000, guid: 8d8eb638ad795f44a9d468193f197a18, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -940,6 +963,22 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &983970831
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 983970828}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64c9f9a59abe28c4b8732b572906e9a4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isSwitched: 0
+  background1: {fileID: 911234134}
+  background2: {fileID: 149301647}
+  animator: {fileID: 983970830}
 --- !u!1 &1994018031
 GameObject:
   m_ObjectHideFlags: 0
