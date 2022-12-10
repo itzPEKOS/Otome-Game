@@ -33,7 +33,7 @@ public class BackgroundController : MonoBehaviour
         }
         else
         {
-            background1.sprite = sprite;
+            background2.sprite = sprite;
         }
     }
 }
