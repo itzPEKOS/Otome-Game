@@ -14,3 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speakerName: Deep
   textColor: {r: 1, g: 0, b: 0, a: 1}
+  sprites:
+  - {fileID: 21300000, guid: 93f636d3aef135049ba36ced2b466f9f, type: 3}
+  - {fileID: 21300000, guid: 8f73af4a4b3dcec4ca7d00ac737edd80, type: 3}
+  - {fileID: 21300000, guid: cf65a42ed9abc544d839e206fb50a618, type: 3}
+  prefab: {fileID: 4137199042908177738, guid: d46b7f7e1ae03414c91b217615cfe2e8, type: 3}
