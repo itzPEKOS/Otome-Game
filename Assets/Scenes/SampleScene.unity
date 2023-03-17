@@ -538,7 +538,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.7176471}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.87058824}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1204,7 +1204,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cdfa845ae726ef945b7db2048a8ec0a4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentScene: {fileID: 11400000, guid: 0d57af0cc876c1b48a2805c7942a46ee, type: 2}
+  currentScene: {fileID: 11400000, guid: 0b2b8c898cb090d438acba875771e683, type: 2}
   bottomBar: {fileID: 287710011}
   backgroundController: {fileID: 983970831}
   chooseController: {fileID: 558710069}

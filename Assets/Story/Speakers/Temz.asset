@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84d1fcba0748db94aa11a4aaba92d609, type: 3}
   m_Name: Temz
   m_EditorClassIdentifier: 
-  speakerName: 
-  textColor: {r: 0, g: 0, b: 0, a: 0}
-  sprites: []
-  prefab: {fileID: 0}
+  speakerName: Temz
+  textColor: {r: 0.9788537, g: 0, b: 1, a: 0}
+  sprites:
+  - {fileID: 21300000, guid: 4b7597258c88c1e42b81b8b9c6323d7c, type: 3}
+  - {fileID: 21300000, guid: 06a21b1fb3d48164abc95db2f5e3eccf, type: 3}
+  prefab: {fileID: 3292070124443398690, guid: d46b7f7e1ae03414c91b217615cfe2e8, type: 3}
