@@ -10,12 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 136efa75d3e972f4d808e6f38b4b4c94, type: 3}
-  m_Name: NewChooseScene
+  m_Name: Choose1
   m_EditorClassIdentifier: 
   labels:
-  - text: "\u0E04\u0E38\u0E01\u0E01\u0E01"
-    nextScene: {fileID: 11400000, guid: b152f2640c6a3c94f9fb2b04661071e0, type: 2}
-  - text: "\u0E40\u0E1B\u0E42\u0E14"
+  - text: "\u0E44\u0E1B\u0E42\u0E23\u0E07\u0E40\u0E23\u0E35\u0E22\u0E19"
     nextScene: {fileID: 11400000, guid: 0d57af0cc876c1b48a2805c7942a46ee, type: 2}
-  - text: "\u0E41\u0E22\u0E48\u0E21\u0E32\u0E01"
-    nextScene: {fileID: 11400000, guid: 976b69bc376a5724996297e0132ff399, type: 2}
+  - text: "\u0E19\u0E2D\u0E19\u0E15\u0E48\u0E2D"
+    nextScene: {fileID: 11400000, guid: b152f2640c6a3c94f9fb2b04661071e0, type: 2}

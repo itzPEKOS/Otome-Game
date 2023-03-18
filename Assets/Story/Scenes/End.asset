@@ -10,25 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 007f4cc1fbb96b54ea617d647705c2f1, type: 3}
-  m_Name: 6
+  m_Name: End
   m_EditorClassIdentifier: 
   sentences:
-  - text: "\u0E44\u0E21\u0E48"
-    speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
+  - text: "\u0E04\u0E38\u0E13\u0E44\u0E2B\u0E25\u0E15\u0E32\u0E22"
+    speaker: {fileID: 11400000, guid: 53123620ed631764c87cf445ad63b4f6, type: 2}
     actions:
     - speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
       spriteIndex: 0
       actionType: 1
-      coords: {x: 300, y: -100}
-      moveSpeed: 0
-    music: {fileID: 0}
-    sound: {fileID: 0}
-  - text: "\u0E44\u0E21\u0E48\u0E22\u0E2D\u0E21\u0E23\u0E31\u0E1A\u0E2B\u0E23\u0E2D\u0E01"
-    speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
-    actions:
-    - speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
-      spriteIndex: 1
-      actionType: 3
       coords: {x: 300, y: -100}
       moveSpeed: 0
     music: {fileID: 0}

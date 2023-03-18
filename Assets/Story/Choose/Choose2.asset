@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 136efa75d3e972f4d808e6f38b4b4c94, type: 3}
-  m_Name: 1
+  m_Name: Choose2
   m_EditorClassIdentifier: 
   labels:
-  - text: Hi
+  - text: "\u0E40\u0E1B\u0E47\u0E19\u0E2D\u0E30\u0E44\u0E23\u0E21\u0E31\u0E49\u0E22"
     nextScene: {fileID: 11400000, guid: 976b69bc376a5724996297e0132ff399, type: 2}
-  - text: Hello
+  - text: "\u0E15\u0E32\u0E1A\u0E2D\u0E14\u0E2B\u0E23\u0E37\u0E2D\u0E44\u0E07"
     nextScene: {fileID: 11400000, guid: ea021bda0eaaeab4ba0effa50b0d2a26, type: 2}
   - text: Bye
     nextScene: {fileID: 11400000, guid: 42502cc14d875a744b9123ee299934f9, type: 2}
