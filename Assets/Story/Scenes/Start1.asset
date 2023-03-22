@@ -16,12 +16,12 @@ MonoBehaviour:
   - text: "\u0E40\u0E0A\u0E49\u0E32\u0E41\u0E25\u0E49\u0E27\u0E2A\u0E34\u0E19\u0E30"
     speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
     actions:
-    - speaker: {fileID: 11400000, guid: 3713b76e947bc714899f6d7cb0381bd3, type: 2}
+    - speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
       spriteIndex: 1
       actionType: 1
       coords: {x: 0, y: 0}
       moveSpeed: 0
     music: {fileID: 0}
     sound: {fileID: 0}
-  background: {fileID: 21300000, guid: ad4bb4947e385fa48a83299a4ce1e7b8, type: 3}
+  background: {fileID: 21300000, guid: 589565c125a97394baeec2835bd2c858, type: 3}
   nextScene: {fileID: 11400000, guid: aed4227855dce694b8880a0de5e81325, type: 2}
