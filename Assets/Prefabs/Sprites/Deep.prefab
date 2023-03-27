@@ -166,7 +166,7 @@ GameObject:
   - component: {fileID: 5027803031430991400}
   - component: {fileID: 3292070124443398690}
   m_Layer: 5
-  m_Name: SpriteCon
+  m_Name: Deep
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

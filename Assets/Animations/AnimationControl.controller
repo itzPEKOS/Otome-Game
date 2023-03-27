@@ -108,7 +108,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Deep
+  m_Name: AnimationControl
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: Show
@@ -220,7 +220,7 @@ AnimatorStateMachine:
     m_Position: {x: 270, y: 130, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 3400201359026346304}
-    m_Position: {x: 305, y: 195, z: 0}
+    m_Position: {x: 300, y: 200, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 9042272586597844509}
     m_Position: {x: 610.82275, y: -74.776855, z: 0}
