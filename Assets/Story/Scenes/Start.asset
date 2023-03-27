@@ -13,30 +13,46 @@ MonoBehaviour:
   m_Name: Start
   m_EditorClassIdentifier: 
   sentences:
-  - text: "(\u0E23\u0E30\u0E2B\u0E27\u0E48\u0E32\u0E07\u0E17\u0E32\u0E07\u0E44\u0E1B\u0E42\u0E23\u0E07\u0E40\u0E23\u0E35\u0E22\u0E19)"
-    speaker: {fileID: 11400000, guid: 3713b76e947bc714899f6d7cb0381bd3, type: 2}
-    actions: []
-    music: {fileID: 0}
-    sound: {fileID: 0}
-  - text: "\u0E42\u0E2D\u0E49\u0E22!!"
-    speaker: {fileID: 11400000, guid: 3713b76e947bc714899f6d7cb0381bd3, type: 2}
+  - text: "\u0E21\u0E32\u0E16\u0E36\u0E07\u0E04\u0E19\u0E41\u0E23\u0E01\u0E2D\u0E35\u0E01\u0E41\u0E25\u0E49\u0E27\u0E2A\u0E34\u0E19\u0E30"
+    speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
     actions:
-    - speaker: {fileID: 11400000, guid: 3713b76e947bc714899f6d7cb0381bd3, type: 2}
-      spriteIndex: 0
+    - speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
+      spriteIndex: 9
       actionType: 3
       coords: {x: 500, y: 0}
       moveSpeed: 0
     music: {fileID: 0}
     sound: {fileID: 0}
-  - text: "\u0E02\u0E2D\u0E42\u0E17\u0E29\u0E04\u0E48\u0E30"
-    speaker: {fileID: 11400000, guid: 3713b76e947bc714899f6d7cb0381bd3, type: 2}
+  - text: "\u0E2D\u0E49\u0E32\u0E27"
+    speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
     actions:
-    - speaker: {fileID: 11400000, guid: 3713b76e947bc714899f6d7cb0381bd3, type: 2}
-      spriteIndex: 0
+    - speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
+      spriteIndex: 9
       actionType: 3
       coords: {x: 500, y: 0}
       moveSpeed: 0
     music: {fileID: 0}
     sound: {fileID: 0}
-  background: {fileID: 21300000, guid: d327da71831c70446a4dda748b0f7fa0, type: 3}
+  - text: "\u0E2A..\u0E2A\u0E27\u0E31\u0E2A\u0E14\u0E35"
+    speaker: {fileID: 11400000, guid: 3713b76e947bc714899f6d7cb0381bd3, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 3713b76e947bc714899f6d7cb0381bd3, type: 2}
+      spriteIndex: 2
+      actionType: 3
+      coords: {x: 500, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "\u0E40\u0E23\u0E32\u0E0A\u0E37\u0E48\u0E2D \u0E40\u0E17\u0E22\u0E48\u0E32
+      \u0E19\u0E30 \u0E22\u0E34\u0E19\u0E14\u0E35\u0E17\u0E35\u0E48\u0E44\u0E14\u0E49\u0E23\u0E39\u0E49\u0E08\u0E31\u0E01"
+    speaker: {fileID: 11400000, guid: 3713b76e947bc714899f6d7cb0381bd3, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 3713b76e947bc714899f6d7cb0381bd3, type: 2}
+      spriteIndex: 2
+      actionType: 3
+      coords: {x: 500, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: ea69c2714c8d5f945a1af030e5892a70, type: 3}
   nextScene: {fileID: 11400000, guid: c38ebd84df096274d9647579d46adbcf, type: 2}
