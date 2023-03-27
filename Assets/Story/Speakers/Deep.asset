@@ -15,10 +15,12 @@ MonoBehaviour:
   speakerName: Deep
   textColor: {r: 1, g: 0, b: 0, a: 1}
   sprites:
-  - {fileID: 21300000, guid: 2eaf1ec556743f346993e149a4b66f6e, type: 3}
-  - {fileID: 21300000, guid: b4493e038e9b00146842c4f10c650444, type: 3}
-  - {fileID: 21300000, guid: e282bd32dda3bca4e9d959d43520745a, type: 3}
-  - {fileID: 21300000, guid: e7b602a1aa4d61340acb60bcc64e2215, type: 3}
-  - {fileID: 21300000, guid: 6bfebec1feb5d94439a9ed492be0794f, type: 3}
-  - {fileID: 21300000, guid: 74c5cabfad5423c4f9c66e8efa6835eb, type: 3}
+  - {fileID: 21300000, guid: 8daa032a126abea428ae530b78cc3b7e, type: 3}
+  - {fileID: 21300000, guid: 35cb29eb35d522444a9dc8c92518c9cc, type: 3}
+  - {fileID: 21300000, guid: e650ba60dc07a6b4197a39763b86ceb3, type: 3}
+  - {fileID: 21300000, guid: 973e866e9faa33c46bb4d750a7688b69, type: 3}
+  - {fileID: 21300000, guid: 3d82029a75233e649b966bc9372150bb, type: 3}
+  - {fileID: 21300000, guid: 037954fa93968bf41bbae2374c35d611, type: 3}
+  - {fileID: 21300000, guid: f5c92eeddd770814e900d76f8aa2660d, type: 3}
+  - {fileID: 21300000, guid: 5ac100cbcc943d64ca26e9f2601e2b54, type: 3}
   prefab: {fileID: 3292070124443398690, guid: d46b7f7e1ae03414c91b217615cfe2e8, type: 3}
