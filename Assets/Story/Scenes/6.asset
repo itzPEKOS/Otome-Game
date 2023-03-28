@@ -30,7 +30,7 @@ MonoBehaviour:
     - speaker: {fileID: 11400000, guid: 3713b76e947bc714899f6d7cb0381bd3, type: 2}
       spriteIndex: 2
       actionType: 1
-      coords: {x: 0, y: 0}
+      coords: {x: 500, y: 0}
       moveSpeed: 0
     music: {fileID: 0}
     sound: {fileID: 0}

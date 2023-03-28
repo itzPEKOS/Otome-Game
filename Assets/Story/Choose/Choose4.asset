@@ -12,4 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136efa75d3e972f4d808e6f38b4b4c94, type: 3}
   m_Name: Choose4
   m_EditorClassIdentifier: 
-  labels: []
+  labels:
+  - text: "\u0E2D\u0E48\u0E32 \u0E19\u0E48\u0E32\u0E01\u0E25\u0E31\u0E27\u0E08\u0E31\u0E07
+      \u0E2D\u0E48\u0E32 \u0E2D\u0E48\u0E32 \u0E19\u0E48\u0E32\u0E01\u0E25\u0E31\u0E27\u0E08\u0E31\u0E07\u0E40\u0E25\u0E22"
+    nextScene: {fileID: 0}
+  - text: "\u0E09\u0E31\u0E19\u0E23\u0E39\u0E49\u0E2D\u0E22\u0E39\u0E48\u0E41\u0E25\u0E49\u0E27\u0E25\u0E48\u0E30"
+    nextScene: {fileID: 0}
