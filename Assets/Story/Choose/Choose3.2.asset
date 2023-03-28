@@ -12,4 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136efa75d3e972f4d808e6f38b4b4c94, type: 3}
   m_Name: Choose3.2
   m_EditorClassIdentifier: 
-  labels: []
+  labels:
+  - text: "\u0E44\u0E14\u0E49\u0E2A\u0E34"
+    nextScene: {fileID: 11400000, guid: 79c99e7ffe6e9e34a9e08886be880a44, type: 2}
+  - text: "\u0E44\u0E21\u0E48\u0E27\u0E48\u0E32\u0E07\u0E2D\u0E48\u0E30 \u0E21\u0E35\u0E19\u0E31\u0E14\u0E14\u0E39
+      Hanami lay ch"
+    nextScene: {fileID: 11400000, guid: de2e6bcbd49222d4bbb6b7679d8203c2, type: 2}

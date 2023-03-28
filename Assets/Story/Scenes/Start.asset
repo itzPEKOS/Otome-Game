@@ -18,8 +18,8 @@ MonoBehaviour:
     actions:
     - speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
       spriteIndex: 9
-      actionType: 3
-      coords: {x: 1000, y: 0}
+      actionType: 0
+      coords: {x: -500, y: 0}
       moveSpeed: 0
     music: {fileID: 0}
     sound: {fileID: 0}
@@ -28,8 +28,8 @@ MonoBehaviour:
     actions:
     - speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
       spriteIndex: 9
-      actionType: 0
-      coords: {x: 500, y: 0}
+      actionType: 3
+      coords: {x: -500, y: 0}
       moveSpeed: 0
     music: {fileID: 0}
     sound: {fileID: 0}
@@ -49,7 +49,7 @@ MonoBehaviour:
     actions:
     - speaker: {fileID: 11400000, guid: 3713b76e947bc714899f6d7cb0381bd3, type: 2}
       spriteIndex: 3
-      actionType: 1
+      actionType: 3
       coords: {x: 500, y: 0}
       moveSpeed: 0
     music: {fileID: 0}
