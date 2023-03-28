@@ -10,6 +10,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 136efa75d3e972f4d808e6f38b4b4c94, type: 3}
-  m_Name: ChooseScene
+  m_Name: Choose3.1
   m_EditorClassIdentifier: 
   labels: []
