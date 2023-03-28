@@ -12,6 +12,51 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 007f4cc1fbb96b54ea617d647705c2f1, type: 3}
   m_Name: 8
   m_EditorClassIdentifier: 
-  sentences: []
+  sentences:
+  - text: " \u0E2D\u0E30\u0E2E\u0E34\u0E2E\u0E38\u0E2E\u0E34\u0E2E\u0E38 \u0E01\u0E25\u0E31\u0E27\u0E08\u0E31\u0E07\u0E40\u0E25\u0E22\u0E04\u0E23\u0E31\u0E1A"
+    speaker: {fileID: 0}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "\u0E19\u0E32\u0E22\u0E01\u0E33\u0E25\u0E31\u0E07\u0E08\u0E30\u0E42\u0E14\u0E19\u0E06\u0E48\u0E32\u0E19\u0E30"
+    speaker: {fileID: 0}
+    actions:
+    - speaker: {fileID: 0}
+      spriteIndex: 0
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "\u0E19\u0E31\u0E48\u0E19\u0E2A\u0E34\u0E19\u0E30"
+    speaker: {fileID: 0}
+    actions:
+    - speaker: {fileID: 0}
+      spriteIndex: 0
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "\u0E42\u0E14\u0E19\u0E04\u0E19\u0E19\u0E48\u0E32\u0E23\u0E31\u0E01\u0E06\u0E48\u0E32\u0E01\u0E47\u0E44\u0E21\u0E48\u0E40\u0E25\u0E27\u0E19\u0E30"
+    speaker: {fileID: 0}
+    actions:
+    - speaker: {fileID: 0}
+      spriteIndex: 0
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "\u0E2B..\u0E2B\u0E4A\u0E32"
+    speaker: {fileID: 0}
+    actions:
+    - speaker: {fileID: 0}
+      spriteIndex: 0
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
   background: {fileID: 0}
   nextScene: {fileID: 0}

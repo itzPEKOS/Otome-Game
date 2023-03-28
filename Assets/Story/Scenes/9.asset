@@ -12,6 +12,32 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 007f4cc1fbb96b54ea617d647705c2f1, type: 3}
   m_Name: 9
   m_EditorClassIdentifier: 
-  sentences: []
+  sentences:
+  - text: "\u0E08\u0E23\u0E34\u0E07\u0E46\u0E09\u0E31\u0E19\u0E23\u0E39\u0E49\u0E2D\u0E22\u0E39\u0E48\u0E41\u0E25\u0E49\u0E27\u0E25\u0E48\u0E30"
+    speaker: {fileID: 0}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "\u0E14..\u0E44\u0E14\u0E49\u0E22\u0E31\u0E07\u0E44\u0E07"
+    speaker: {fileID: 0}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "\u0E21\u0E31\u0E19\u0E44\u0E21\u0E48\u0E21\u0E35\u0E04\u0E19\u0E17\u0E35\u0E48\u0E44\u0E2B\u0E19
+      \u0E19\u0E48\u0E32\u0E23\u0E31\u0E01\u0E22\u0E31\u0E07\u0E19\u0E35\u0E49\u0E2B\u0E23\u0E2D\u0E01"
+    speaker: {fileID: 0}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "(\u0E40\u0E23\u0E32\u0E19\u0E35\u0E48\u0E21\u0E31\u0E19\u0E41\u0E16\u0E40\u0E01\u0E48\u0E07\u0E08\u0E23\u0E34\u0E07\u0E46)"
+    speaker: {fileID: 0}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "\u0E2B..\u0E2B\u0E4A\u0E32\u0E32"
+    speaker: {fileID: 0}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
   background: {fileID: 0}
   nextScene: {fileID: 0}
