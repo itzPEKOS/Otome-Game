@@ -12,4 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136efa75d3e972f4d808e6f38b4b4c94, type: 3}
   m_Name: Choose5
   m_EditorClassIdentifier: 
-  labels: []
+  labels:
+  - text: "\u0E40\u0E2D\u0E32\u0E2A\u0E34"
+    nextScene: {fileID: 11400000, guid: 13644f73557de1d4f8894dd3c0d2218d, type: 2}
+  - text: "\u0E44\u0E21\u0E48\u0E43\u0E2B\u0E49\u0E40\u0E25\u0E37\u0E2D\u0E01\u0E2D\u0E48\u0E30
+      \u0E42\u0E17\u0E29\u0E17\u0E35"
+    nextScene: {fileID: 0}

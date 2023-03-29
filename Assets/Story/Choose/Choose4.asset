@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   labels:
   - text: " \u0E2D\u0E30\u0E2E\u0E34\u0E2E\u0E38\u0E2E\u0E34\u0E2E\u0E38 \u0E01\u0E25\u0E31\u0E27\u0E08\u0E31\u0E07\u0E40\u0E25\u0E22\u0E04\u0E23\u0E31\u0E1A"
-    nextScene: {fileID: 0}
+    nextScene: {fileID: 11400000, guid: b7c356c1dc1deec47966237948bac20a, type: 2}
   - text: "\u0E09\u0E31\u0E19\u0E23\u0E39\u0E49\u0E2D\u0E22\u0E39\u0E48\u0E41\u0E25\u0E49\u0E27\u0E25\u0E48\u0E30"
-    nextScene: {fileID: 0}
+    nextScene: {fileID: 11400000, guid: a6addd95b2de14c4aaa0646513ef90fc, type: 2}
