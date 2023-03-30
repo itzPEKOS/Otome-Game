@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: "\u0E2D\u0E32\u0E19\u0E19\u0E17\u0E4C"
   m_EditorClassIdentifier: 
   speakerName: 
-  textColor: {r: 0, g: 0, b: 0, a: 0}
+  textColor: {r: 1, g: 1, b: 1, a: 0}
   sprites: []
-  prefab: {fileID: 0}
+  prefab: {fileID: 3292070124443398690, guid: 3a90ae85d1dc1a64e87c67df9dbcc163, type: 3}

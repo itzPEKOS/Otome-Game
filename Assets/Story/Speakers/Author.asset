@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speakerName: 
   textColor: {r: 0, g: 0, b: 0, a: 0.7176471}
+  sprites: []
+  prefab: {fileID: 3292070124443398690, guid: fcb086ddef4a70341ba162be246830af, type: 3}

@@ -15,6 +15,5 @@ MonoBehaviour:
   labels:
   - text: "\u0E27\u0E48\u0E32\u0E07\u0E2A\u0E34"
     nextScene: {fileID: 11400000, guid: adb3841cdab77954fbab5728c778b7fd, type: 2}
-  - text: "\u0E44\u0E21\u0E48\u0E27\u0E48\u0E32\u0E07\u0E2D\u0E48\u0E30 \u0E21\u0E35\u0E19\u0E31\u0E14\u0E14\u0E39
-      Hanami lay ch "
+  - text: "\u0E44\u0E21\u0E48\u0E27\u0E48\u0E32\u0E07\u0E2D\u0E48\u0E30 \u0E27\u0E31\u0E19\u0E19\u0E35\u0E49\u0E04\u0E38\u0E13\u0E2B\u0E19\u0E39\u0E21\u0E35\u0E44\u0E25\u0E1F\u0E4C"
     nextScene: {fileID: 11400000, guid: de2e6bcbd49222d4bbb6b7679d8203c2, type: 2}
