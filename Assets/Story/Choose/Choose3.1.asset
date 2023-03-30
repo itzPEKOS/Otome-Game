@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   labels:
   - text: "\u0E27\u0E48\u0E32\u0E07\u0E2A\u0E34"
-    nextScene: {fileID: 11400000, guid: 0223f57a897d1f441b6f45e43eab7f2c, type: 2}
+    nextScene: {fileID: 11400000, guid: adb3841cdab77954fbab5728c778b7fd, type: 2}
   - text: "\u0E44\u0E21\u0E48\u0E27\u0E48\u0E32\u0E07\u0E2D\u0E48\u0E30 \u0E21\u0E35\u0E19\u0E31\u0E14\u0E14\u0E39
       Hanami lay ch "
     nextScene: {fileID: 11400000, guid: de2e6bcbd49222d4bbb6b7679d8203c2, type: 2}
