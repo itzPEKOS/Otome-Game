@@ -14,5 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speakerName: 
   textColor: {r: 1, g: 1, b: 1, a: 0}
-  sprites: []
+  sprites:
+  - {fileID: 21300000, guid: f313c59c5e8ca2c4b840e70e7994d335, type: 3}
+  - {fileID: 21300000, guid: 7643042a115928943b83b4685e89e415, type: 3}
+  - {fileID: 21300000, guid: 5c1640252bc27634aa4aff9aa82fc29a, type: 3}
+  - {fileID: 21300000, guid: a71ca4c57f8dbd54a8d239414107beb6, type: 3}
+  - {fileID: 21300000, guid: 8539cdbcfacee9c48b8c19ebefd2fb7f, type: 3}
   prefab: {fileID: 3292070124443398690, guid: 3a90ae85d1dc1a64e87c67df9dbcc163, type: 3}

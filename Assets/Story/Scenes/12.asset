@@ -12,6 +12,91 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 007f4cc1fbb96b54ea617d647705c2f1, type: 3}
   m_Name: 12
   m_EditorClassIdentifier: 
-  sentences: []
-  background: {fileID: 0}
-  nextScene: {fileID: 0}
+  sentences:
+  - text: "\u0E2D\u0E4A\u0E30...\u0E2D\u0E49\u0E32\u0E27"
+    speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "\u0E17\u0E35\u0E48\u0E19\u0E35\u0E48\u0E17\u0E35\u0E48\u0E44\u0E2B\u0E19"
+    speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "\u0E2A\u0E27\u0E23\u0E23\u0E04\u0E4C\u0E22\u0E31\u0E07\u0E44\u0E07\u0E25\u0E48\u0E30"
+    speaker: {fileID: 11400000, guid: 53123620ed631764c87cf445ad63b4f6, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "\u0E40\u0E2A\u0E35\u0E22\u0E07\u0E19\u0E35\u0E49\u0E21\u0E31\u0E19 \u0E19\u0E49\u0E2D\u0E07\u0E2D\u0E32\u0E40\u0E19\u0E35\u0E22"
+    speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "\u0E09\u0E31\u0E19\u0E04\u0E37\u0E2D \u0E2D\u0E32\u0E19\u0E19\u0E17\u0E4C"
+    speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "\u0E09\u0E31\u0E19\u0E21\u0E32\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E2B\u0E22\u0E38\u0E14\u0E2A\u0E07\u0E04\u0E23\u0E32\u0E21"
+    speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
+      spriteIndex: 1
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "\u0E2A\u0E07\u0E04\u0E23\u0E32\u0E21\u0E2D\u0E30\u0E44\u0E23 \u0E41\u0E04\u0E48\u0E08\u0E30\u0E43\u0E2B\u0E49\u0E14\u0E39\u0E14\u0E40\u0E25\u0E37\u0E2D\u0E14\u0E40\u0E2D\u0E07"
+    speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
+    actions:
+    - speaker: {fileID: 0}
+      spriteIndex: 0
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "\u0E41\u0E25\u0E49\u0E27\u0E21\u0E31\u0E19\u0E08\u0E30\u0E14\u0E39\u0E14\u0E2D\u0E22\u0E48\u0E32\u0E07\u0E2D\u0E37\u0E48\u0E19\u0E15\u0E48\u0E2D\u0E21\u0E31\u0E49\u0E22\u0E25\u0E48\u0E30"
+    speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
+      spriteIndex: 1
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "\u0E01\u0E47\u0E44\u0E21\u0E48\u0E41\u0E19\u0E48"
+    speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "\u0E0A\u0E48\u0E32\u0E07\u0E40\u0E2B\u0E2D\u0E30 \u0E43\u0E19\u0E40\u0E21\u0E37\u0E48\u0E2D\u0E42\u0E25\u0E01\u0E19\u0E35\u0E49\u0E21\u0E31\u0E19\u0E41\u0E15\u0E01\u0E44\u0E1B\u0E41\u0E25\u0E49\u0E27"
+    speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
+      spriteIndex: 1
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "\u0E08\u0E30\u0E1E\u0E32\u0E44\u0E1B\u0E15\u0E48\u0E32\u0E07\u0E42\u0E25\u0E01\u0E25\u0E30\u0E01\u0E31\u0E19"
+    speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
+      spriteIndex: 1
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: 10ff44e6c90858f4899043fd685da57d, type: 3}
+  nextScene: {fileID: 11400000, guid: 68ed4b891b107b34bad4ad6b061f3dd0, type: 2}
