@@ -12,6 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 007f4cc1fbb96b54ea617d647705c2f1, type: 3}
   m_Name: 15
   m_EditorClassIdentifier: 
-  sentences: []
+  sentences:
+  - text: "\u0E01\u0E48\u0E2D\u0E19\u0E08\u0E30\u0E44\u0E1B\u0E0A\u0E31\u0E49\u0E19\u0E01\u0E47\u0E21\u0E35\u0E02\u0E2D\u0E07\u0E21\u0E32\u0E43\u0E2B\u0E49\u0E41\u0E01\u0E40\u0E25\u0E37\u0E2D\u0E01"
+    speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "\u0E2D\u0E22\u0E48\u0E32\u0E07\u0E41\u0E23\u0E01"
+    speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 
+    speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
   background: {fileID: 0}
   nextScene: {fileID: 0}

@@ -28,12 +28,12 @@ MonoBehaviour:
       moveSpeed: 0
     music: {fileID: 0}
     sound: {fileID: 0}
-  - text: "\u0E01\u0E47\u0E44\u0E21\u0E48\u0E40\u0E2D\u0E32\u0E2D\u0E48\u0E30"
+  - text: "\u0E44\u0E21\u0E48\u0E2D\u0E22\u0E32\u0E01\u0E44\u0E1B\u0E2D\u0E48\u0E30"
     speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
     actions: []
     music: {fileID: 0}
     sound: {fileID: 0}
-  - text: "\u0E41\u0E15\u0E48\u0E21\u0E35\u0E2A\u0E32\u0E27\u0E46\u0E2A\u0E27\u0E22\u0E46\u0E19\u0E30"
+  - text: "\u0E08\u0E30\u0E44\u0E1B\u0E14\u0E35\u0E46\u0E2B\u0E23\u0E37\u0E2D\u0E08\u0E30\u0E43\u0E2B\u0E49\u0E40\u0E1B\u0E34\u0E14\u0E40\u0E01\u0E34\u0E14\u0E43\u0E2B\u0E21\u0E48\u0E40\u0E1B\u0E47\u0E19\u0E25\u0E39\u0E01\u0E42\u0E2D\u0E0A\u0E34\u0E15\u0E2D\u0E19\u0E41\u0E23\u0E01\u0E43\u0E2B\u0E49\u0E14\u0E39\u0E2D\u0E35\u0E01\u0E23\u0E2D\u0E1A"
     speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
     actions:
     - speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
@@ -43,10 +43,10 @@ MonoBehaviour:
       moveSpeed: 0
     music: {fileID: 0}
     sound: {fileID: 0}
-  - text: "\u0E42\u0E2D\u0E40\u0E04\u0E44\u0E1B"
+  - text: "...\u0E44\u0E1B\u0E01\u0E31\u0E19\u0E04\u0E23\u0E31\u0E1A"
     speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
     actions: []
     music: {fileID: 0}
     sound: {fileID: 0}
   background: {fileID: 21300000, guid: 10ff44e6c90858f4899043fd685da57d, type: 3}
-  nextScene: {fileID: 0}
+  nextScene: {fileID: 11400000, guid: 3cab7df67d9c8d64a96c179364cb432e, type: 2}
