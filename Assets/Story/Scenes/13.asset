@@ -22,7 +22,7 @@ MonoBehaviour:
     speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
     actions:
     - speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
-      spriteIndex: 3
+      spriteIndex: 1
       actionType: 1
       coords: {x: 0, y: 0}
       moveSpeed: 0
@@ -33,11 +33,11 @@ MonoBehaviour:
     actions: []
     music: {fileID: 0}
     sound: {fileID: 0}
-  - text: "\u0E08\u0E30\u0E44\u0E1B\u0E14\u0E35\u0E46\u0E2B\u0E23\u0E37\u0E2D\u0E08\u0E30\u0E43\u0E2B\u0E49\u0E40\u0E1B\u0E34\u0E14\u0E40\u0E01\u0E34\u0E14\u0E43\u0E2B\u0E21\u0E48\u0E40\u0E1B\u0E47\u0E19\u0E25\u0E39\u0E01\u0E42\u0E2D\u0E0A\u0E34\u0E15\u0E2D\u0E19\u0E41\u0E23\u0E01\u0E43\u0E2B\u0E49\u0E14\u0E39\u0E2D\u0E35\u0E01\u0E23\u0E2D\u0E1A"
+  - text: "\u0E08\u0E30\u0E44\u0E1B\u0E14\u0E35\u0E46\u0E2B\u0E23\u0E37\u0E2D\u0E08\u0E30\u0E43\u0E2B\u0E49\u0E40\u0E01\u0E34\u0E14\u0E40\u0E1B\u0E47\u0E19\u0E25\u0E39\u0E01\u0E42\u0E14\u0E19\u0E31\u0E17"
     speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
     actions:
     - speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
-      spriteIndex: 4
+      spriteIndex: 2
       actionType: 0
       coords: {x: 0, y: 0}
       moveSpeed: 0

@@ -18,8 +18,8 @@ MonoBehaviour:
     actions: []
     music: {fileID: 0}
     sound: {fileID: 0}
-  - text: "\u0E40\u0E1B\u0E47\u0E19\u0E42\u0E25\u0E01\u0E21\u0E2B\u0E31\u0E2A\u0E08\u0E23\u0E23\u0E22
-      \u0E2A\u0E38\u0E14\u0E40\u0E08\u0E4B\u0E07\u0E41\u0E08\u0E4B\u0E27\u0E4C \u0E40\u0E1B\u0E47\u0E19\u0E1B\u0E23\u0E34\u0E28\u0E19\u0E32
+  - text: "\u0E40\u0E1B\u0E47\u0E19\u0E42\u0E25\u0E01\u0E21\u0E2B\u0E31\u0E28\u0E08\u0E23\u0E23\u0E22\u0E4C
+      \u0E2A\u0E38\u0E14\u0E40\u0E08\u0E4B\u0E07\u0E41\u0E08\u0E4B\u0E27 \u0E40\u0E1B\u0E47\u0E19\u0E1B\u0E23\u0E34\u0E28\u0E19\u0E32
       \u0E25\u0E36\u0E01\u0E25\u0E31\u0E1A \u0E2B\u0E23\u0E37\u0E2D\u0E01\u0E47\u0E04\u0E37\u0E2D"
     speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
     actions: []
@@ -36,7 +36,7 @@ MonoBehaviour:
     music: {fileID: 0}
     sound: {fileID: 0}
   - text: "\u0E44\u0E21\u0E48\u0E15\u0E49\u0E2D\u0E07\u0E16\u0E32\u0E21\u0E21\u0E32\u0E01\u0E23\u0E35\u0E1A\u0E46\u0E44\u0E1B\u0E44\u0E14\u0E49\u0E41\u0E25\u0E49\u0E27"
-    speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
+    speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
     actions: []
     music: {fileID: 0}
     sound: {fileID: 0}

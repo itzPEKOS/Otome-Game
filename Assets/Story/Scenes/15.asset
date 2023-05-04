@@ -15,7 +15,12 @@ MonoBehaviour:
   sentences:
   - text: "\u0E01\u0E48\u0E2D\u0E19\u0E08\u0E30\u0E44\u0E1B\u0E0A\u0E31\u0E49\u0E19\u0E01\u0E47\u0E21\u0E35\u0E02\u0E2D\u0E07\u0E21\u0E32\u0E43\u0E2B\u0E49\u0E41\u0E01\u0E40\u0E25\u0E37\u0E2D\u0E01"
     speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
-    actions: []
+    actions:
+    - speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
     music: {fileID: 0}
     sound: {fileID: 0}
   - text: "\u0E2D\u0E22\u0E48\u0E32\u0E07\u0E41\u0E23\u0E01"
@@ -23,12 +28,22 @@ MonoBehaviour:
     actions: []
     music: {fileID: 0}
     sound: {fileID: 0}
-  - text: " \u0E42\u0E1E\u0E0A\u0E31\u0E48\u0E19\u0E27\u0E34\u0E40\u0E28\u0E29 \u0E43\u0E0A\u0E49\u0E14\u0E37\u0E48\u0E21"
+  - text: "\u0E42\u0E1E\u0E0A\u0E31\u0E48\u0E19\u0E27\u0E34\u0E40\u0E28\u0E29"
     speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
     actions: []
     music: {fileID: 0}
     sound: {fileID: 0}
-  - text: "... \u0E02\u0E2D\u0E1A\u0E04\u0E38\u0E13\u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E04\u0E27\u0E32\u0E21\u0E23\u0E39\u0E49\u0E17\u0E35\u0E48\u0E44\u0E21\u0E48\u0E15\u0E49\u0E2D\u0E07\u0E01\u0E32\u0E23\u0E04\u0E23\u0E31\u0E1A"
+  - text: "\u0E17\u0E33\u0E2D\u0E30\u0E44\u0E23\u0E44\u0E14\u0E49"
+    speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "\u0E14\u0E37\u0E48\u0E21\u0E44\u0E14\u0E49"
+    speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ...
     speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
     actions: []
     music: {fileID: 0}
@@ -38,22 +53,17 @@ MonoBehaviour:
     actions: []
     music: {fileID: 0}
     sound: {fileID: 0}
-  - text: "\u0E01\u0E23\u0E30\u0E2A\u0E38\u0E19\u0E04\u0E15 \u0E22\u0E34\u0E07\u0E22\u0E31\u0E07\u0E44\u0E07\u0E01\u0E47\u0E42\u0E14\u0E19"
+  - text: "\u0E01\u0E23\u0E30\u0E2A\u0E38\u0E19\u0E04\u0E15"
     speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
     actions: []
     music: {fileID: 0}
     sound: {fileID: 0}
-  - text: "\u0E40\u0E2D\u0E48\u0E2D.. \u0E17\u0E48\u0E32\u0E19\u0E44\u0E21\u0E48\u0E44\u0E14\u0E49\u0E40\u0E1A\u0E35\u0E22\u0E27\u0E02\u0E38\u0E19\u0E1E\u0E31\u0E19\u0E43\u0E0A\u0E48\u0E21\u0E31\u0E49\u0E22"
-    speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
+  - text: "\u0E40\u0E2D\u0E48\u0E2D ..\u0E17\u0E48\u0E32\u0E19\u0E44\u0E21\u0E48\u0E44\u0E14\u0E49\u0E40\u0E1A\u0E35\u0E22\u0E27\u0E02\u0E38\u0E19\u0E1E\u0E31\u0E19\u0E18\u0E4C\u0E43\u0E0A\u0E48\u0E44\u0E2B\u0E21"
+    speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
     actions: []
     music: {fileID: 0}
     sound: {fileID: 0}
-  - text: "\u0E40\u0E2D\u0E48\u0E2D.. \u0E17\u0E48\u0E32\u0E19\u0E44\u0E21\u0E48\u0E44\u0E14\u0E49\u0E40\u0E1A\u0E35\u0E22\u0E27\u0E02\u0E38\u0E19\u0E1E\u0E31\u0E19\u0E43\u0E0A\u0E48\u0E21\u0E31\u0E49\u0E22"
-    speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
-    actions: []
-    music: {fileID: 0}
-    sound: {fileID: 0}
-  - text: "\u0E04\u0E34\u0E14\u0E44\u0E1B\u0E40\u0E2D\u0E07"
+  - text: "\u0E04\u0E34\u0E14\u0E44\u0E1B\u0E40\u0E2D\u0E07\u0E19\u0E48\u0E32"
     speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
     actions: []
     music: {fileID: 0}
@@ -63,10 +73,25 @@ MonoBehaviour:
     actions: []
     music: {fileID: 0}
     sound: {fileID: 0}
-  - text: "\u0E1E\u0E23\u0E30\u0E21\u0E40\u0E2B\u0E2A\u0E27\u0E23 \u0E17\u0E48\u0E2D\u0E07\u0E04\u0E32\u0E16\u0E32\u0E41\u0E25\u0E49\u0E27\u0E04\u0E32\u0E1A\u0E44\u0E27\u0E49\u0E08\u0E30\u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E40\u0E1A\u0E35\u0E48\u0E22\u0E07\u0E01\u0E23\u0E30\u0E2A\u0E38\u0E19"
+  - text: "\u0E1E\u0E23\u0E30\u0E21\u0E40\u0E2B\u0E28\u0E27\u0E23 \u0E17\u0E48\u0E2D\u0E07\u0E04\u0E32\u0E16\u0E32\u0E41\u0E25\u0E49\u0E27\u0E04\u0E32\u0E1A\u0E44\u0E27\u0E49\u0E08\u0E30\u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E40\u0E1A\u0E35\u0E48\u0E22\u0E07\u0E01\u0E23\u0E30\u0E2A\u0E38\u0E19"
     speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
     actions: []
     music: {fileID: 0}
     sound: {fileID: 0}
-  background: {fileID: 0}
-  nextScene: {fileID: 0}
+  - text: "\u0E17\u0E48\u0E32\u0E19\u0E40\u0E1A\u0E35\u0E22\u0E27\u0E02\u0E38\u0E19\u0E1E\u0E31\u0E19\u0E18\u0E4C\u0E41\u0E25\u0E49\u0E27\u0E25\u0E48\u0E30"
+    speaker: {fileID: 11400000, guid: 59d37cf6b4bf9dc448cdbe88ae01d858, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "\u0E1E\u0E39\u0E14\u0E21\u0E32\u0E01\u0E19\u0E48\u0E32 \u0E40\u0E25\u0E37\u0E2D\u0E01\u0E21\u0E32\u0E44\u0E14\u0E49\u0E41\u0E25\u0E48\u0E27"
+    speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: db8cc2f44c8fa8947bc1dad38a79e6b3, type: 2}
+      spriteIndex: 1
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: 10ff44e6c90858f4899043fd685da57d, type: 3}
+  nextScene: {fileID: 11400000, guid: 2426670561f013349a15313b42f39370, type: 2}
