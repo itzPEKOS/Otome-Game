@@ -14,6 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speakerName: Mic
   textColor: {r: 1, g: 0, b: 0, a: 1}
-  sprites:
-  - {fileID: 21300000, guid: a71ca4c57f8dbd54a8d239414107beb6, type: 3}
-  prefab: {fileID: 0}
+  sprites: []
+  prefab: {fileID: 3292070124443398690, guid: ed51944577d6eb94f9dbd05832c931fb, type: 3}
